@@ -1,4 +1,4 @@
- #README: Credit Card Default Prediction
+ # Credit Card Default Prediction
 
 ## Overview
 
